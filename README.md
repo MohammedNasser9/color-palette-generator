@@ -16,6 +16,6 @@ You can copy any color’s hex code with one click and use it in your projects.
 - **Font Awesome Icons**
 
 ## 🚀 Live Demo
-👉 [View Demo on Vercel](https://your-vercel-link.vercel.app/)
+👉 [View Demo on Vercel](https://color-palette-generator-virid-chi.vercel.app/)
 
 
